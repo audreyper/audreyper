@@ -12,7 +12,9 @@ I'm teaching myself to code. I'm working on various projects to build my skills,
  
  🔹CSS
  
- 🔹React
+ 🔹React 
+ 
+ 🔹Linux
 
 
 
