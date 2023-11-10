@@ -3,7 +3,7 @@ Software Engineer | DevOps | Linux Systems Administraton
 
 ### I use : 
 ➜ Python<br />
-➜ Lamp stack<br />
+➜ LAMP Stack<br />
 ➜ Javascript/HTML/CSS<br /> 
 
 📫 How to reach me: audreyper@protonmail.com
