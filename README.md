@@ -1,5 +1,5 @@
 ### Hi I'm Audrey 👋🏼
-Software Engineer | DevOps | Linux Systems Administraton
+Software Engineer | DevOps | Linux Systems Administrator
 
 ### I use : 
 ➜ Python<br />
