@@ -6,6 +6,7 @@ DevOps | Linux Systems Administrator
 ➜ LAMP/LEMP Stack<br />
 ➜ Terraform<br />
 ➜ Ansible<br />
+➜ AWS<br />
 ➜ Javascript/HTML/CSS<br /> 
 
 📬 How to reach me: audreyper@protonmail.com
