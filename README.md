@@ -1,5 +1,5 @@
 ### Hi I'm Audrey 👋
-DevOps | Linux Systems Administrator
+DevOps | Cloud | Linux Systems Administrator
 
 ### I use : 
 ➜ Python<br />
@@ -10,3 +10,5 @@ DevOps | Linux Systems Administrator
 ➜ Javascript/HTML/CSS<br /> 
 
 📬 How to reach me: audreyper@protonmail.com
+
+[Check out my portfolio](https://audreyautomates.com)
